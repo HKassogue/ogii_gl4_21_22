@@ -1,0 +1,4 @@
+CREATE TABLE Personne(
+    id INT AUTOINCREMENT PRIMARY KEY,
+    nom VARCHAR(30)
+)
